@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['Chapter3.py', 'Chapter4.py', 'Chapter 5.py', 'chapter6.py', 'Chapter7.py', 'Chapter8.py', 'Chapter9.py', 'Chapter11.py', 'Chapter12.py', 'Chapter13.py', 'Chapter14.py', 'Chapter15.py', 'Chapter16.py', 'Chapter17.py', 'Chapter18.py', 'Chapter19.py', 'Chapter20.py', 'Chapter21.py', 'Chapter22.py', 'Chapter25.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
